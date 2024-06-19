@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SearchFusion, a responsive table with state management. It conditionally renders an image or icon based on navigation of the Side-Nav. The app includes search, date selection, and status filtering, with conditional styling applied to statuses (pending, paid, rejected). It uses Tailwind CSS for responsive design includes pagination and Graph.
 
 Currently, two official plugins are available:
 
